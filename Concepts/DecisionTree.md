@@ -9,5 +9,4 @@ Two types of Decision trees
 
 Lets focus on Regressio tress first
 
-
-
+How and where split should occur will be determined by the algoithm,(entropy based)
