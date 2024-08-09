@@ -21,9 +21,6 @@ The data are scaled to a variance of 1 after the mean is reduced to 0 via Standa
 #### we must normalize the data (µ = 0, σ = 1). 
 
 
-![](../../../IMG20240809150759.jpg)
-
-
-
+![alt text](../../Images/IMG20240809150759.jpg)
 
 
