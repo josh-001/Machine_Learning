@@ -21,8 +21,7 @@ The data are scaled to a variance of 1 after the mean is reduced to 0 via Standa
 #### we must normalize the data (µ = 0, σ = 1). 
 
 
-![Alt text](https://drive.google.com/file/d/1V6N9lHrKSmYHIdY14ncsfx1RR4uQxj8U/view?usp=sharing)
-
+![](../../../IMG20240809150759.jpg)
 
 
 
